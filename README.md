@@ -18,6 +18,7 @@ A curated list of high-quality tools and APIs for removing image backgrounds. Pe
 4. [Slazzer](https://www.slazzer.com) - Fast processing with e-commerce optimization
 5. [FocoClipping](https://www.fococlipping.com) - Specializes in product photography
 6. [BgEraser](https://bgeraser.com) - Good for bulk processing
+7. [ImagineClip](https://imagineclip.com/background-remover) - Browser-based AI background removal for transparent images and cleaned-up creative assets
 
 ## APIs
 1. [Remove.bg API](https://www.remove.bg/api)
