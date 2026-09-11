@@ -18,6 +18,7 @@ A curated list of high-quality tools and APIs for removing image backgrounds. Pe
 4. [Slazzer](https://www.slazzer.com) - Fast processing with e-commerce optimization
 5. [FocoClipping](https://www.fococlipping.com) - Specializes in product photography
 6. [BgEraser](https://bgeraser.com) - Good for bulk processing
+7. **[RemoveColor](https://removecolor.online)** - Removes any *specific color* (solid/white/green backgrounds) with tolerance control and exports transparent PNG; 100% free, runs locally in the browser - no uploads, no signup
 
 ## APIs
 1. [Remove.bg API](https://www.remove.bg/api)
